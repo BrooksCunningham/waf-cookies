@@ -23,7 +23,8 @@ visid_incap_*, https://en.aegeanair.com/cookie-policy/
 incap_ses_*_*, https://en.aegeanair.com/cookie-policy/
 
 # PerimeterX
-
+_px3, https://www.change.org/policies/cookies
+_pxvid, https://www.change.org/policies/cookies
 
 # Shape Security
 
