@@ -1,0 +1,29 @@
+# Akamai
+ak_bmsc, This cookie is used by Akamai to optimize site security by distinguishing between humans and bots, https://www.ford-mobility.eu/cookie-guide
+
+# Distil Networks
+D_IID, verification of the user’s browser authenticity, https://en.aegeanair.com/cookie-policy/
+D_SID, verification of the user’s browser authenticity, https://en.aegeanair.com/cookie-policy/
+D_HID, verification of the user’s browser authenticity, https://en.aegeanair.com/cookie-policy/
+D_UID, verification of the user’s browser authenticity, https://en.aegeanair.com/cookie-policy/
+D_ZID, verification of the user’s browser authenticity, https://en.aegeanair.com/cookie-policy/
+D_ZUID, verification of the user’s browser authenticity, https://en.aegeanair.com/cookie-policy/
+
+
+# F5
+
+
+# Fingerprint JS
+
+
+# Imperva
+reese84, Used for fingerprinting the browser for bot detection, https://community.imperva.com/communities/community-home/digestviewer/viewthread?MessageKey=a36d2983-770a-4419-8980-1cd834b91bcf
+nlbi_*, https://en.aegeanair.com/cookie-policy/
+visid_incap_*, https://en.aegeanair.com/cookie-policy/
+incap_ses_*_*, https://en.aegeanair.com/cookie-policy/
+
+# PerimeterX
+
+
+# Shape Security
+
